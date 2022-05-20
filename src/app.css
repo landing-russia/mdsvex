@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+}
+
+@layer components {
+  .container-fluid {
+    @apply w-full mx-auto px-3 xs:px-4 sm:px-6 lg:px-7 xl:px-8 2xl:px-10;
+  }
+}
