@@ -15,7 +15,7 @@
 </script>
 
 <div
-  class="bg-gray-100 dark:bg-gray-900 flex flex-col min-h-screen font-inter selection:bg-amber-300"
+  class="bg-gray-50 dark:bg-gray-900 flex flex-col min-h-screen font-inter selection:bg-amber-300"
 >
   <Nav />
   <main class="pt-16 flex-grow w-full">

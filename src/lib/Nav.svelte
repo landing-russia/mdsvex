@@ -20,7 +20,7 @@
 
   if (typeof localStorage !== "undefined") {
     if (
-      localStorage.theme === "dark" 
+      localStorage.theme === "dark"
       // ||
       // (!("theme" in localStorage) &&
       //   window.matchMedia("(prefers-color-scheme: dark)").matches)
@@ -89,6 +89,11 @@
         href="/"
         class="py-4 px-2 text-lg font-medium text-gray-500 hover:text-gray-800 transition duration-200"
         >Home</a
+      >
+      <a
+        href="/blog"
+        class="py-4 px-2 text-lg font-medium text-gray-500 hover:text-gray-800 transition duration-200"
+        >Blog</a
       >
       <a
         href="/about"

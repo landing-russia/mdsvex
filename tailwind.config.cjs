@@ -13,6 +13,14 @@ const config = {
       "3xl": "1900px",
     },
     extend: {
+      // typography: {
+      //   DEFAULT: {
+      //     css: {
+      //       "code::before": { content: "" },
+      //       "code::after": { content: "" },
+      //     },
+      //   },
+      // },
       colors: {
         "dark-rose": "#62011F",
       },
